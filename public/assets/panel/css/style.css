@@ -1,0 +1,11 @@
+
+.englishText{
+    text-align: left;
+    direction: ltr;
+}
+.deleteBtn{
+    background: none;
+    padding: 0px;
+    border: none;
+    margin-right: 10px;
+}
